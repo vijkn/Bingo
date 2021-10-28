@@ -7,6 +7,11 @@ DataBricks GitHub: https://github.com/databricks
 
 Apache Spark ETL/Data Engineering example gits :
   https://github.com/databricks/tech-talks
+  https://github.com/vngrs/spark-etl
+  https://github.com/anish749/spark2-etl-examples
+  https://github.com/mayur2810/sope
+  https://github.com/jamesbyars/apache-spark-etl-pipeline-example
+  https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample
   
 SnowFlake to Databricks: https://github.com/jyotsnaravikumar/Snowflake-Databricks-ETL
  
@@ -18,3 +23,13 @@ Getting started Databricks on AWS:  https://docs.databricks.com/getting-started/
 
 Apache Spark™ Programming with Databricks : https://academy.databricks.com/instructor-led-training/apache-spark-programming
 
+PySpark Examples: 
+  https://github.com/AlexIoannides/pyspark-example-project
+  https://github.com/spark-examples/pyspark-examples
+  https://github.com/abulbasar/pyspark-examples
+  https://github.com/rich-iannone/so-many-pyspark-examples/blob/main/spark-dataframes.ipynb
+  https://github.com/tirthajyoti/Spark-with-Python
+  https://github.com/spark-examples
+  https://github.com/UrbanInstitute/pyspark-tutorials
+  https://github.com/mahmoudparsian/pyspark-tutorial
+  https://github.com/topics/pyspark-tutorial
