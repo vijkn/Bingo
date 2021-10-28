@@ -4,8 +4,12 @@ https://aka.ms/maa
 Learning Plan Resources for Azure Databricks: https://microsoft.github.io/PartnerResources/azure/data-analytics-ai/databricks
 
 DataBricks GitHub: https://github.com/databricks
+
 Apache Spark ETL/Data Engineering example gits :
   https://github.com/databricks/tech-talks
+  
+ SnowFlake to Databricks: https://github.com/jyotsnaravikumar/Snowflake-Databricks-ETL
+ 
   
 Azure Data Engineering blogs: https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/
 
